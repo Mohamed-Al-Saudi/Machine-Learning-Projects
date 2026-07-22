@@ -9,15 +9,6 @@ This repository contains a collection of machine learning projects implemented i
 - Oil Sales Prediction 
 - More projects will be added.
 
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-
 ## Repository Structure
 
 Each project has its own folder containing:
