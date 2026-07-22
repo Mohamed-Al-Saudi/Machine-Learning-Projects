@@ -65,7 +65,7 @@ Model used:
 Oil-Sales-Prediction/
 │
 ├── README.md
-├── Oil Sales Assignment.ipynb
+├── Oil_Sales_Assignment.ipynb
 └── oil_sales_assignment_dataset.csv
 ```
 
